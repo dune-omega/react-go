@@ -5,6 +5,7 @@ const test = {
   },
   wrapperCol: { flex: 1 },
   autoFocusFirstInput: true,
+  preserve: false
 };
 
 const table = {
